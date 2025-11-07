@@ -1,0 +1,142 @@
+[error]	2025-10-25 17:54:57.166645[Thread 0x000033c0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-25 17:54:57.191439[Thread 0x00003798]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-25 17:54:57.191940[Thread 0x000033c0]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-25 17:54:57.191940[Thread 0x000037d4]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-25 17:54:57.192440[Thread 0x00001814]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-25 17:54:57.192440[Thread 0x00000a80]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-25 17:54:57.193442[Thread 0x00001748]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-25 17:54:57.202438[Thread 0x00003798]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-25 17:54:57.202438[Thread 0x000033c0]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-25 17:54:57.203940[Thread 0x000037d4]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-25 17:54:57.203940[Thread 0x00001814]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-25 17:54:57.204939[Thread 0x00000a80]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-25 17:54:57.208439[Thread 0x00001748]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-25 17:54:57.212939[Thread 0x00003798]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-25 17:54:57.213939[Thread 0x000037d4]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-25 17:54:57.214438[Thread 0x00000a80]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-25 17:54:57.214438[Thread 0x000033c0]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-25 17:54:57.215467[Thread 0x00001814]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-25 17:54:57.219476[Thread 0x00001748]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-25 17:55:00.262434[Thread 0x000033c0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-10-25 17:55:00.587098[Thread 0x000033c0]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-10-25 17:55:15.389941[Thread 0x000033c0]:OctoPrint: Error getting version: , HTTP 502, body: `<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.24.0 (Ubuntu)</center>
+</body>
+</html>
+`
+[error]	2025-10-25 17:55:28.635052[Thread 0x000033c0]:OctoPrint: Error getting version: , HTTP 502, body: `<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.24.0 (Ubuntu)</center>
+</body>
+</html>
+`
+[error]	2025-10-25 17:55:33.520031[Thread 0x000033c0]:OctoPrint: Error getting version: , HTTP 502, body: `<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.24.0 (Ubuntu)</center>
+</body>
+</html>
+`
+[error]	2025-10-25 17:56:17.210819[Thread 0x000033c0]:OctoPrint: Error getting version: , HTTP 502, body: `<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.24.0 (Ubuntu)</center>
+</body>
+</html>
+`
+[error]	2025-10-25 17:57:22.517216[Thread 0x000033c0]:OctoPrint: Error getting version: , HTTP 502, body: `<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.24.0 (Ubuntu)</center>
+</body>
+</html>
+`
+[error]	2025-10-25 17:59:31.255164[Thread 0x000033c0]:OctoPrint: Error getting version: , HTTP 502, body: `<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.24.0 (Ubuntu)</center>
+</body>
+</html>
+`
+[error]	2025-10-25 18:00:44.189190[Thread 0x000033c0]:OctoPrint: Error getting version: , HTTP 502, body: `<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.24.0 (Ubuntu)</center>
+</body>
+</html>
+`
+[error]	2025-10-25 18:04:01.781580[Thread 0x000033c0]:OctoPrint: Error getting version: , HTTP 502, body: `<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.24.0 (Ubuntu)</center>
+</body>
+</html>
+`
+[error]	2025-10-25 18:04:14.192610[Thread 0x000033c0]:OctoPrint: Error getting version: , HTTP 502, body: `<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.24.0 (Ubuntu)</center>
+</body>
+</html>
+`
+[error]	2025-10-25 18:04:17.983418[Thread 0x000033c0]:OctoPrint: Error getting version: , HTTP 502, body: `<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.24.0 (Ubuntu)</center>
+</body>
+</html>
+`
+[error]	2025-10-25 18:04:36.440238[Thread 0x000033c0]:OctoPrint: Error getting version: , HTTP 502, body: `<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.24.0 (Ubuntu)</center>
+</body>
+</html>
+`
+[error]	2025-10-25 18:05:19.877845[Thread 0x000033c0]:OctoPrint: Error getting version: , HTTP 502, body: `<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.24.0 (Ubuntu)</center>
+</body>
+</html>
+`
+[error]	2025-10-25 18:06:43.944082[Thread 0x00002230]:OctoPrint: Error getting version at http://192.168.1.87/api/version : , HTTP 502, body: `<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.24.0 (Ubuntu)</center>
+</body>
+</html>
+`
+[error]	2025-10-25 18:09:01.350022[Thread 0x000033c0]:OctoPrint: Error getting version: , HTTP 502, body: `<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.24.0 (Ubuntu)</center>
+</body>
+</html>
+`
+[error]	2025-10-25 18:09:02.263775[Thread 0x000033c0]:OctoPrint: Error getting version: , HTTP 502, body: `<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.24.0 (Ubuntu)</center>
+</body>
+</html>
+`
+[error]	2025-10-25 18:10:24.071296[Thread 0x000033c0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

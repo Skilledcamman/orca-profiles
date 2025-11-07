@@ -1,0 +1,116 @@
+[error]	2025-11-07 09:12:54.059867[Thread 0x00001678]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-07 09:12:54.069866[Thread 0x00002e6c]:File Metadata/plate_1.png not found from archive
+[error]	2025-11-07 09:12:54.069866[Thread 0x00003540]:File Metadata/plate_1.png not found from archive
+[error]	2025-11-07 09:12:54.069866[Thread 0x000020fc]:File Metadata/plate_1.png not found from archive
+[error]	2025-11-07 09:12:54.069866[Thread 0x000021e4]:File Metadata/plate_1.png not found from archive
+[error]	2025-11-07 09:12:54.069866[Thread 0x00004514]:File Metadata/plate_1.png not found from archive
+[error]	2025-11-07 09:12:54.070370[Thread 0x00001678]:File Metadata/plate_1.png not found from archive
+[error]	2025-11-07 09:12:54.070370[Thread 0x00004514]:File Metadata/plate_1.png not found from archive
+[error]	2025-11-07 09:12:54.070370[Thread 0x00001678]:File Metadata/plate_1.png not found from archive
+[error]	2025-11-07 09:12:54.070370[Thread 0x00004514]:File Metadata/plate_1.png not found from archive
+[error]	2025-11-07 09:12:54.070866[Thread 0x00002e6c]:File Metadata/plate_1.png not found from archive
+[error]	2025-11-07 09:12:54.070866[Thread 0x00001678]:File Metadata/plate_1.png not found from archive
+[error]	2025-11-07 09:12:54.070866[Thread 0x00004514]:File Metadata/plate_1.png not found from archive
+[error]	2025-11-07 09:12:54.070866[Thread 0x00001678]:File Metadata/plate_1.png not found from archive
+[error]	2025-11-07 09:12:54.076866[Thread 0x000020fc]:File Metadata/plate_1.png not found from archive
+[error]	2025-11-07 09:12:54.088866[Thread 0x00003540]:File Metadata/plate_1.png not found from archive
+[error]	2025-11-07 09:12:54.091866[Thread 0x000021e4]:File Metadata/plate_1.png not found from archive
+[error]	2025-11-07 09:12:56.233662[Thread 0x00001678]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-07 09:12:57.037143[Thread 0x00001678]:File Metadata/plate_1.png not found from archive
+[warning]	2025-11-07 09:12:57.066673[Thread 0x00001678]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-11-07 09:40:22.114646[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 09:40:27.654581[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 09:40:27.766150[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 09:40:39.161307[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 09:40:39.270428[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 09:40:42.359473[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 09:40:42.910047[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 09:40:46.170460[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 09:40:46.776940[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 09:40:47.178342[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 09:40:49.742792[Thread 0x00001678]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-07 09:40:49.970982[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 09:40:50.017945[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 09:40:50.155101[Thread 0x00001678]:File Metadata/plate_1.png not found from archive
+[error]	2025-11-07 09:40:55.020379[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 09:40:55.069900[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 09:40:55.187431[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 09:41:00.491746[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 09:41:00.949289[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 09:41:01.310266[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 09:41:17.901439[Thread 0x00001678]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-07 09:41:18.130998[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 09:41:18.181083[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 09:41:18.319110[Thread 0x00001678]:File Metadata/plate_1.png not found from archive
+[error]	2025-11-07 09:41:25.796932[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 09:41:25.850491[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 09:41:25.960571[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 09:41:28.464083[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 09:41:28.650833[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 09:41:29.891609[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 09:41:30.672527[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-07 09:41:32.163457[Thread 0x0000416c]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":200.000000,
+[error]	2025-11-07 09:47:38.349808[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 09:47:39.459841[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 09:47:42.807188[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 09:47:56.473991[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 09:47:56.658103[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 09:47:56.748107[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 09:48:00.812999[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-07 09:48:02.690401[Thread 0x0000416c]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":200.000000,
+[error]	2025-11-07 09:48:02.985670[Thread 0x00001678]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-07 09:48:08.407570[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 09:48:36.299928[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 09:48:37.437602[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 09:48:39.525851[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 09:48:40.640292[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 09:48:41.360021[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 09:48:44.670728[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 09:48:47.271459[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 09:48:50.297939[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-07 09:49:00.718743[Thread 0x0000416c]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":200.000000,
+[error]	2025-11-07 09:49:01.031070[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 09:49:04.743636[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 09:49:10.662708[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 09:49:10.908266[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-07 09:49:15.774309[Thread 0x0000416c]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":200.000000,
+[error]	2025-11-07 09:49:18.361169[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 09:49:19.949675[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 09:49:24.828753[Thread 0x00001678]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-07 09:49:28.067360[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 09:49:28.261043[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 09:49:32.347470[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 09:49:32.638998[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 09:49:33.419948[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 09:49:39.240550[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-07 10:06:51.257283[Thread 0x00000a2c]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2025-11-07 10:06:54.589845[Thread 0x00000a2c]:gcode path conflicts found between EBA_01.00.012_R01_claw_support.STL and EBA_01.00.001.STL
+[error]	2025-11-07 10:26:03.326564[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 12:34:07.745803[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 12:34:14.254179[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 15:03:54.589817[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 15:04:00.113411[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 15:04:00.168420[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 15:04:00.297963[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 15:04:07.689954[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 15:04:07.821468[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-07 15:04:09.970286[Thread 0x0000416c]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":200.000000,
+[warning]	2025-11-07 15:04:11.745959[Thread 0x0000416c]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":200.000000,
+[error]	2025-11-07 15:04:22.131204[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-07 15:04:28.713295[Thread 0x0000416c]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":200.000000,
+[error]	2025-11-07 15:21:20.291143[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 15:21:42.717206[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 15:21:47.654310[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 15:21:47.709854[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 15:21:47.774921[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-07 15:21:50.307950[Thread 0x0000416c]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":200.000000,
+[warning]	2025-11-07 15:21:54.933791[Thread 0x0000416c]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":200.000000,
+[error]	2025-11-07 15:22:03.726605[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 15:51:36.686901[Thread 0x00001678]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-07 16:31:08.655934[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 16:31:14.944012[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 16:50:41.567150[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 16:50:42.382642[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 16:50:45.857552[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 16:50:47.290988[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-11-07 16:50:47.496200[Thread 0x00001678]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 

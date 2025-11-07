@@ -1,0 +1,37 @@
+{
+    "from": "User",
+    "gcode_flavor": "klipper",
+    "inherits": "Kingroon KP3S PRO S1 0.4 nozzle",
+    "is_custom_defined": "0",
+    "machine_max_acceleration_extruding": [
+        "10000",
+        "20000"
+    ],
+    "machine_max_acceleration_retracting": [
+        "5000",
+        "5000"
+    ],
+    "machine_max_acceleration_x": [
+        "10000",
+        "20000"
+    ],
+    "machine_max_acceleration_y": [
+        "10000",
+        "20000"
+    ],
+    "machine_max_speed_x": [
+        "500",
+        "200"
+    ],
+    "machine_max_speed_y": [
+        "500",
+        "200"
+    ],
+    "machine_pause_gcode": "PAUSE",
+    "machine_start_gcode": "G90 ; use absolute coordinates\nM83 ; extruder relative mode\nM204 S[machine_max_acceleration_extruding] T[machine_max_acceleration_retracting]\nM104 S[first_layer_temperature] ; set extruder temp\nM140 S[first_layer_bed_temperature] ; set bed temp\nG28 ; home all\nG1 Y1.0 Z0.3 F1000 ; move print head up\nM190 S[first_layer_bed_temperature] ; wait for bed temp\nBED_MESH_CALIBRATE ADAPTIVE=1\nM109 S[first_layer_temperature] ; wait for extruder temp\nG92 E0.0\n; initial load\n G1 Z1.0 F3000 ; move z up little to prevent scratching of surface\nLINE_PURGE",
+    "name": "speeed",
+    "print_host": "192.168.1.87",
+    "printer_settings_id": "speeed",
+    "printhost_apikey": "36f35469509b4c6883d0c9f705cd29b4",
+    "version": "2.1.0.1"
+}

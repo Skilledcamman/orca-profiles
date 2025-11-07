@@ -1,0 +1,62 @@
+[error]	2025-10-25 14:56:36.934404[Thread 0x00003480]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-25 14:56:36.997701[Thread 0x0000378c]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-25 14:56:36.997701[Thread 0x000014ac]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-25 14:56:37.000230[Thread 0x0000349c]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-25 14:56:37.000230[Thread 0x00001774]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-25 14:56:37.008704[Thread 0x00003480]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-25 14:56:37.014207[Thread 0x0000349c]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-25 14:56:37.014207[Thread 0x0000373c]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-25 14:56:37.021712[Thread 0x00001774]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-25 14:56:37.023712[Thread 0x0000378c]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-25 14:56:37.025711[Thread 0x000014ac]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-25 14:56:37.027711[Thread 0x00003480]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-25 14:56:37.033273[Thread 0x0000349c]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-25 14:56:37.038249[Thread 0x0000373c]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-25 14:56:37.038748[Thread 0x0000378c]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-25 14:56:37.044249[Thread 0x00001774]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-25 14:56:37.044249[Thread 0x000014ac]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-25 14:56:37.053905[Thread 0x00003480]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-25 14:56:37.053905[Thread 0x0000349c]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-25 14:56:41.452431[Thread 0x00003480]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-10-25 14:56:41.707076[Thread 0x00003480]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-10-25 17:39:56.214492[Thread 0x00003710]:OctoPrint: Error getting version at http://192.168.1.87/api/version : , HTTP 502, body: `<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.24.0 (Ubuntu)</center>
+</body>
+</html>
+`
+[error]	2025-10-25 17:46:33.303630[Thread 0x00003710]:OctoPrint: Error getting version at http://192.168.1.87/api/version : , HTTP 502, body: `<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.24.0 (Ubuntu)</center>
+</body>
+</html>
+`
+[error]	2025-10-25 17:47:20.458654[Thread 0x00003480]:OctoPrint: Error getting version: , HTTP 502, body: `<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.24.0 (Ubuntu)</center>
+</body>
+</html>
+`
+[error]	2025-10-25 17:47:26.448371[Thread 0x00003480]:OctoPrint: Error getting version: , HTTP 502, body: `<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.24.0 (Ubuntu)</center>
+</body>
+</html>
+`
+[error]	2025-10-25 17:48:33.071948[Thread 0x00003480]:OctoPrint: Error getting version: , HTTP 502, body: `<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.24.0 (Ubuntu)</center>
+</body>
+</html>
+`
+[error]	2025-10-25 17:50:25.443586[Thread 0x00003480]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

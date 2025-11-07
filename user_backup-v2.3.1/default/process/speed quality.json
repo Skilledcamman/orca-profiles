@@ -1,0 +1,22 @@
+{
+    "default_acceleration": "10000",
+    "enable_support": "0",
+    "from": "User",
+    "inherits": "0.20mm Standard @Kingroon KP3S PRO S1",
+    "inner_wall_acceleration": "10000",
+    "inner_wall_speed": "200",
+    "internal_solid_infill_acceleration": "6000",
+    "internal_solid_infill_speed": "200",
+    "is_custom_defined": "0",
+    "name": "speed quality",
+    "outer_wall_acceleration": "7000",
+    "outer_wall_speed": "150",
+    "print_settings_id": "speed quality",
+    "skirt_loops": "0",
+    "sparse_infill_acceleration": "6000",
+    "sparse_infill_speed": "200",
+    "travel_acceleration": "10000",
+    "travel_speed": "500",
+    "version": "2.1.0.1",
+    "wall_sequence": "inner-outer-inner wall"
+}

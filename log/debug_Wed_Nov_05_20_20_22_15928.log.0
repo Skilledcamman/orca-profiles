@@ -1,0 +1,21 @@
+[error]	2025-11-05 20:20:32.196750[Thread 0x0000408c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-05 20:20:32.211298[Thread 0x0000408c]:File Metadata/plate_1.png not found from archive
+[error]	2025-11-05 20:20:32.211807[Thread 0x0000408c]:File Metadata/plate_1.png not found from archive
+[error]	2025-11-05 20:20:32.254317[Thread 0x00003f44]:File Metadata/plate_1.png not found from archive
+[error]	2025-11-05 20:20:32.257318[Thread 0x00002b48]:File Metadata/plate_1.png not found from archive
+[error]	2025-11-05 20:20:32.263318[Thread 0x0000160c]:File Metadata/plate_1.png not found from archive
+[error]	2025-11-05 20:20:32.267317[Thread 0x00003f44]:File Metadata/plate_1.png not found from archive
+[error]	2025-11-05 20:20:32.270816[Thread 0x00002b48]:File Metadata/plate_1.png not found from archive
+[error]	2025-11-05 20:20:32.282838[Thread 0x00000f60]:File Metadata/plate_1.png not found from archive
+[error]	2025-11-05 20:20:32.285315[Thread 0x0000408c]:File Metadata/plate_1.png not found from archive
+[error]	2025-11-05 20:20:32.290817[Thread 0x0000160c]:File Metadata/plate_1.png not found from archive
+[error]	2025-11-05 20:20:32.307317[Thread 0x00000f60]:File Metadata/plate_1.png not found from archive
+[error]	2025-11-05 20:20:32.308319[Thread 0x0000160c]:File Metadata/plate_1.png not found from archive
+[error]	2025-11-05 20:20:32.309318[Thread 0x0000408c]:File Metadata/plate_1.png not found from archive
+[error]	2025-11-05 20:20:32.325865[Thread 0x00002b48]:File Metadata/plate_1.png not found from archive
+[error]	2025-11-05 20:20:32.331402[Thread 0x00001f6c]:File Metadata/plate_1.png not found from archive
+[error]	2025-11-05 20:20:32.338433[Thread 0x00000f60]:File Metadata/plate_1.png not found from archive
+[error]	2025-11-05 20:20:36.054413[Thread 0x0000408c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-05 20:20:36.877024[Thread 0x0000408c]:File Metadata/plate_1.png not found from archive
+[warning]	2025-11-05 20:20:36.915841[Thread 0x0000408c]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-11-05 20:21:11.113891[Thread 0x0000408c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

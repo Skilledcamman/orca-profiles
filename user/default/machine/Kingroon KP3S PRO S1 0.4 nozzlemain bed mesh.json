@@ -1,0 +1,13 @@
+{
+    "from": "User",
+    "gcode_flavor": "klipper",
+    "inherits": "Kingroon KP3S PRO S1 0.4 nozzle",
+    "is_custom_defined": "0",
+    "machine_pause_gcode": "PAUSE",
+    "machine_start_gcode": "G90 ; use absolute coordinates\nM83 ; extruder relative mode\nM204 S[machine_max_acceleration_extruding] T[machine_max_acceleration_retracting]\nM104 S[first_layer_temperature] ; set extruder temp\nM140 S[first_layer_bed_temperature] ; set bed temp\nG28 ; home all\nG1 Y1.0 Z0.3 F1000 ; move print head up\nM190 S[first_layer_bed_temperature] ; wait for bed temp\nBED_MESH_PROFILE LOAD=\"default\"\nM109 S[first_layer_temperature] ; wait for extruder temp\nG92 E0.0\n; initial load\n G1 Z1.0 F3000 ; move z up little to prevent scratching of surface\nLINE_PURGE",
+    "name": "Kingroon KP3S PRO S1 0.4 nozzlemain bed mesh",
+    "print_host": "http://192.168.1.87:7125",
+    "print_host_webui": "http://192.168.1.87:80",
+    "printer_settings_id": "Kingroon KP3S PRO S1 0.4 nozzlemain bed mesh",
+    "version": "2.1.0.1"
+}

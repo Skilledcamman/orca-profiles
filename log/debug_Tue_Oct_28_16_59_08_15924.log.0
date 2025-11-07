@@ -1,0 +1,31 @@
+[error]	2025-10-28 16:59:18.329532[Thread 0x00000670]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-28 16:59:18.360635[Thread 0x00000670]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-28 16:59:18.385633[Thread 0x00002c30]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-28 16:59:18.385633[Thread 0x00000670]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-28 16:59:18.386644[Thread 0x000027fc]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-28 16:59:18.386644[Thread 0x00001540]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-28 16:59:18.399151[Thread 0x00002c30]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-28 16:59:18.399651[Thread 0x00001540]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-28 16:59:18.399651[Thread 0x000038f4]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-28 16:59:18.401150[Thread 0x000027fc]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-28 16:59:18.410152[Thread 0x00001540]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-28 16:59:18.410651[Thread 0x00002c30]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-28 16:59:18.410651[Thread 0x00003038]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-28 16:59:18.412158[Thread 0x000038f4]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-28 16:59:18.412158[Thread 0x00000670]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-28 16:59:18.421184[Thread 0x000027fc]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-28 16:59:18.422690[Thread 0x00002c30]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-28 16:59:18.422690[Thread 0x00001540]:File Metadata/plate_1.png not found from archive
+[error]	2025-10-28 16:59:18.424189[Thread 0x00003038]:File Metadata/plate_1.png not found from archive
+[warning]	2025-10-28 16:59:23.517750[Thread 0x00000670]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-10-28 17:14:36.826157[Thread 0x00000670]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-28 17:14:50.239401[Thread 0x00000670]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-28 17:14:51.086465[Thread 0x00000670]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-28 17:14:55.038520[Thread 0x00000670]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-28 17:14:55.405697[Thread 0x00000670]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-28 17:14:56.518547[Thread 0x00000670]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-28 17:14:57.076674[Thread 0x00000670]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-28 17:14:58.370115[Thread 0x00000670]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-28 17:14:58.783102[Thread 0x00000670]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-10-28 17:15:09.405091[Thread 0x00000670]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-28 17:15:09.428144[Thread 0x00000670]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
